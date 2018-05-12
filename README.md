@@ -1,3 +1,5 @@
 # Ciao
+
 Roaming around
-Hooking up with the island java and python.
+
+Hooking up with the island of java and python.
